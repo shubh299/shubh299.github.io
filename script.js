@@ -20,6 +20,11 @@ var project_json={
             "link": "https://github.com/shubh299/AdvancedOS/tree/main/Assignments/Peer_to_Peer_File_Sharing"
         },
         {
+            "title": "A SDN based Network Packet Sniffer",
+            "description": "A tool that leverages the concepts of Software Defined Networking to capture packets in the network for further analysis by the network administrator.",
+            "link": "https://github.com/shubh299/SDN-Network-Sniffer"
+        },
+        {
             "title": "A Distributed IoT Platform",
             "description": "A distributed platform to host IoT applications developed by independen developers.",
             "link": "https://github.com/shubh299/IAS_Project"
