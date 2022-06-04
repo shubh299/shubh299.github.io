@@ -1,0 +1,29 @@
+{
+    "projects": [
+        {
+            "title": "A Distributed IoT Platform",
+            "description": "A distributed platform to host IoT applications developed by independen developers.",
+            "link": "https://github.com/shubh299/IAS_Project"
+        },
+        {
+            "title": "A SDN based Network Packet Sniffer",
+            "description": "A tool that leverages the concepts of Software Defined Networking to capture packets in the network for further analysis by the network administrator.",
+            "link": "https://github.com/shubh299/SDN-Network-Sniffer"
+        },
+        {
+            "title": "A Peer-to-Peer File Sharing System",
+            "description": "A set of Linux based command line systems to enable sharing of files between peers in absence of a central server.",
+            "link": "https://github.com/shubh299/AdvancedOS/tree/main/Assignments/Peer_to_Peer_File_Sharing"
+        },
+        {
+            "title": "Virtual R&D Showcase",
+            "description": "A virtual reality web app for showcasing R&D posters.",
+            "link": "https://github.com/shubh299/SSD10-R-D-Showcase"
+        },
+        {
+            "title": "Keyword extraction from text",
+            "description": "A program to extract keyword from given text.",
+            "link": "https://github.com/shubh299/KeywordExtraction"
+        }
+    ]
+}
